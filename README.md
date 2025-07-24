@@ -1,6 +1,7 @@
 # 🌐 CivAid – The People’s Platform for Civic Issues & Disaster Response
 
-![CivAid Banner](https://img.shields.io/badge/Civic-Tech-OpenSource-brightgreen)  
+<img width="1886" height="962" alt="image" src="https://github.com/user-attachments/assets/23906b1d-9afc-4d4f-82da-a668db20e1b5" />
+
 CivAid is a citizen-first platform that enables people to report civic problems, receive verified disaster alerts, locate missing persons via CCTV AI, and collaborate with government/NGOs — all through a powerful, AI-enhanced web interface.
 
 ---
