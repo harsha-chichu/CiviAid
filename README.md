@@ -1,5 +1,3 @@
-"# CiviAid" 
-
 # 🌐 CivAid – The People’s Platform for Civic Issues & Disaster Response
 
 ![CivAid Banner](https://img.shields.io/badge/Civic-Tech-OpenSource-brightgreen)  
@@ -66,13 +64,6 @@ npm run dev
 ```
 
 > Make sure to configure `.env` with your Supabase and Gemini API keys.
-
----
-
-## 🧪 Live Demo (optional)
-[🌐 View Live](https://your-demo-link.vercel.app)
-
----
 
 ## 🤝 Contributing
 
